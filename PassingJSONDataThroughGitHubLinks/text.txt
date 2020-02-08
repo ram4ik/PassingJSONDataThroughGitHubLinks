@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "names": "Megan (also spelled Meghan, Meagan, Megyn, Meaghan) is a Welsh female given name, originally a pet form of Meg or Meggie, which is itself a short form of Margaret. Margaret is from the Greek μαργαριτης (margarites) for "pearl". Megan is one of the most popular Welsh names in Wales and England; it is commonly truncated to Meg.[1] Nowadays, it is generally used as an independent name rather than as a nickname.",
+        "names": "Megan (also spelled Meghan, Meagan, Megyn, Meaghan) is a Welsh female given name, originally a pet form of Meg or Meggie, which is itself a short form of Margaret. Margaret is from the Greek μαργαριτης (margarites) for 'pearl'. Megan is one of the most popular Welsh names in Wales and England; it is commonly truncated to Meg.[1] Nowadays, it is generally used as an independent name rather than as a nickname.",
         "image": "insta0",
         "msg": "0",
         "favo": false
@@ -9,7 +9,7 @@
     
     {
         "id": 1,
-        "names": "Laura is a female given name in Latin Europe, Western Europe and North America whose meaning ("bay laurel") translates to "victor", and an early hypocorism from Laurel and Lauren.",
+        "names": "Laura is a female given name in Latin Europe, Western Europe and North America whose meaning ('bay laurel') translates to 'victor', and an early hypocorism from Laurel and Lauren.",
         "image": "insta1",
         "msg": "1",
         "favo": false
@@ -17,7 +17,7 @@
     
     {
         "id": 2,
-        "names": "Danielle is the Hebrew female variant of the male name Daniel, meaning "God is my judge" in the Hebrew language. The name appears in the Bible, where Daniel survives a night in a den of lions. The more common feminine version is "Daniella" or "Daniela" which is used in English-, German-, Italian-, Portuguese- and Spanish-speaking countries. Modern day meaning of the name Daniella is 'Survivor'",
+        "names": "Danielle is the Hebrew female variant of the male name Daniel, meaning 'God is my judge' in the Hebrew language. The name appears in the Bible, where Daniel survives a night in a den of lions. The more common feminine version is 'Daniella' or 'Daniela' which is used in English-, German-, Italian-, Portuguese- and Spanish-speaking countries. Modern day meaning of the name Daniella is 'Survivor'",
         "image": "insta2",
         "msg": "2",
         "favo": false
