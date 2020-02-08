@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "names": "Name 0",
+        "names": "Megan (also spelled Meghan, Meagan, Megyn, Meaghan) is a Welsh female given name, originally a pet form of Meg or Meggie, which is itself a short form of Margaret. Margaret is from the Greek μαργαριτης (margarites) for "pearl". Megan is one of the most popular Welsh names in Wales and England; it is commonly truncated to Meg.[1] Nowadays, it is generally used as an independent name rather than as a nickname.",
         "image": "insta0",
         "msg": "0",
         "favo": false
@@ -9,7 +9,7 @@
     
     {
         "id": 1,
-        "names": "Name 1",
+        "names": "Laura is a female given name in Latin Europe, Western Europe and North America whose meaning ("bay laurel") translates to "victor", and an early hypocorism from Laurel and Lauren.",
         "image": "insta1",
         "msg": "1",
         "favo": false
@@ -17,7 +17,7 @@
     
     {
         "id": 2,
-        "names": "Name 2",
+        "names": "Danielle is the Hebrew female variant of the male name Daniel, meaning "God is my judge" in the Hebrew language. The name appears in the Bible, where Daniel survives a night in a den of lions. The more common feminine version is "Daniella" or "Daniela" which is used in English-, German-, Italian-, Portuguese- and Spanish-speaking countries. Modern day meaning of the name Daniella is “Survivor”",
         "image": "insta2",
         "msg": "2",
         "favo": false
@@ -25,7 +25,7 @@
     
     {
         "id": 3,
-        "names": "Name 3",
+        "names": "Diana or Diane is a feminine given name probably derived from an Indo-European root word referring to the divine. It is the name of the Roman goddess Diana, the goddess of the hunt, forests, and childbirth.[1] The French form of the name is Diane. In Persian Diana means "supplier (messenger) of beneficence and wellness".[2] Diana has consistently ranked among the top 200 names used for girls born in the United States since the 1930s. It was the 107th most popular name for baby girls born in the United States in 2007. It was the 96th most common name for girls and women in the United States in the 1990 census. Diana ranks among the 100 most popular names for baby girls born in Hungary, Spain, and Ukraine, where it was among the top 10 most popular names for baby girls born in 2008.",
         "image": "insta3",
         "msg": "3",
         "favo": false
@@ -33,7 +33,7 @@
     
     {
         "id": 4,
-        "names": "Name 4",
+        "names": "Eva is a female given name, the Latinate counterpart of English Eve, derived from a Hebrew name meaning "life" or "living one." It can also mean full of life or mother of life. It is the standard biblical form of Eve in many European languages. Eva can be pronounced “ay-vuh,” ”ee-vuh” or ”eh-vuh.",
         "image": "insta4",
         "msg": "4",
         "favo": false
@@ -41,7 +41,7 @@
     
     {
         "id": 5,
-        "names": "Name 5",
+        "names": "Svetlana (Russian, Bulgarian, Serbian Cyrillic: Светлана; Belarusian: Святла́на; Ukrainian: Світла́на) is a common Orthodox Slavic female name, deriving from the East and South Slavic root свет svet, which translates into English as "light", "shining", "luminescent", "pure", "blessed", or "holy", depending upon context similar if not the same as the word Shwet in Sanskrit.[citation needed] The name was coined by Alexander Vostokov and popularized by Vasily Zhukovsky in his eponymous ballad "Svetlana", first published in 1813. The name is also used in Ukraine, Belarus, Slovakia, and Serbia, with a number of occurrences in non-Slavic countries.",
         "image": "insta5",
         "msg": "5",
         "favo": false
@@ -49,7 +49,7 @@
     
     {
         "id": 6,
-        "names": "Name 6",
+        "names": "Margaret is a female first name, derived via French (Marguerite), Latin (Margarita), and Greek Margarites from the Old Persian word for pearl *margārīta- (compare Modern Persian morvārīd "pearl")",
         "image": "insta6",
         "msg": "6",
         "favo": false
@@ -57,7 +57,7 @@
     
     {
         "id": 7,
-        "names": "Name 7",
+        "names": "Ilona is a Hungarian female given name, the traditional name of the Queen of the Fairies in Magyar folklore.",
         "image": "insta7",
         "msg": "7",
         "favo": false

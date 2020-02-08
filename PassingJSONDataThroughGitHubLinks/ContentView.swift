@@ -18,6 +18,7 @@ struct ContentView: View {
                     VStack {
                         Image(inst.image)
                             .resizable()
+                            .scaledToFill()
                             .frame(width: UIScreen.main.bounds.width - 34,
                                    height: 200)
                             .cornerRadius(12)
@@ -59,7 +60,7 @@ public class instaData: ObservableObject {
     }
     
     func loadData() {
-        let url = URL(string: "link goes here")!
+        let url = URL(string: "https://raw.githubusercontent.com/ram4ik/PassingJSONDataThroughGitHubLinks/master/PassingJSONDataThroughGitHubLinks/file.txt")!
         
         URLSession.shared.dataTask(with: url) { (data, response, error) in
             do {
@@ -71,6 +72,6 @@ public class instaData: ObservableObject {
                     }
                 } else { print("Data not found") }
             } catch { print(error.localizedDescription) }
-        }
+        }.resume()
     }
 }
