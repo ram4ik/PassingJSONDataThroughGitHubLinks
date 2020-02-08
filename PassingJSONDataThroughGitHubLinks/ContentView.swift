@@ -60,7 +60,7 @@ public class instaData: ObservableObject {
     }
     
     func loadData() {
-        let url = URL(string: "https://raw.githubusercontent.com/ram4ik/PassingJSONDataThroughGitHubLinks/master/PassingJSONDataThroughGitHubLinks/file.txt")!
+        let url = URL(string: "https://raw.githubusercontent.com/ram4ik/PassingJSONDataThroughGitHubLinks/master/PassingJSONDataThroughGitHubLinks/text.txt")!
         
         URLSession.shared.dataTask(with: url) { (data, response, error) in
             do {
